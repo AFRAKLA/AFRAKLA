@@ -32,4 +32,4 @@ Site web et espace d’administration réalisés pour une association, avec gest
 
 **Stack :** Next.js, TypeScript, React, Supabase, PostgreSQL, Tailwind CSS
 
-[Voir le projet](https://github.com/AFRAKLA/association-site-jeunes-actifs)
+[Voir le projet](https://github.com/AFRAKLA/site-association-jeunes-actifs)

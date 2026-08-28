@@ -25,12 +25,11 @@ Application de gestion scolaire couvrant les utilisateurs et rôles, les notes, 
 
 **Stack :** React, Flask, SQLAlchemy, JWT, SQLite, Pytest, Playwright
 
-[Voir le projet]([../aubier-gestion-scolaire](https://github.com/AFRAKLA/aubier-school-management))
-
+[Voir le projet](https://github.com/AFRAKLA/aubier-school-management)
 ### Jeunes Actifs
 
 Site web et espace d’administration réalisés pour une association, avec gestion des contenus, des événements et des différentes pages publiques.
 
 **Stack :** Next.js, TypeScript, React, Supabase, PostgreSQL, Tailwind CSS
 
-[Voir le projet]([../association-de-sites-jeunes-actifs](https://github.com/AFRAKLA/site-association-jeunes-actifs))
+[Voir le projet](https://github.com/AFRAKLA/association-site-jeunes-actifs)

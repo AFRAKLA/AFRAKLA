@@ -16,3 +16,21 @@ Je travaille principalement sur des applications métier et web, avec une préf�
 | Frontend | TypeScript, React, Next.js |
 | Bases de données | PostgreSQL, SQLite, Supabase |
 | Tests & outils | Git, GitHub Actions, Pytest, Playwright |
+
+## Projets sélectionnés
+
+### Garden School
+
+Application de gestion scolaire couvrant les utilisateurs et rôles, les notes, les emplois du temps, les paiements, la génération de documents et les tests automatisés.
+
+**Stack :** React, Flask, SQLAlchemy, JWT, SQLite, Pytest, Playwright
+
+[Voir le projet]([../aubier-gestion-scolaire](https://github.com/AFRAKLA/aubier-school-management))
+
+### Jeunes Actifs
+
+Site web et espace d’administration réalisés pour une association, avec gestion des contenus, des événements et des différentes pages publiques.
+
+**Stack :** Next.js, TypeScript, React, Supabase, PostgreSQL, Tailwind CSS
+
+[Voir le projet]([../association-de-sites-jeunes-actifs](https://github.com/AFRAKLA/site-association-jeunes-actifs))

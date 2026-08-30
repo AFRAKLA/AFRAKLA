@@ -33,3 +33,8 @@ Site web et espace d’administration réalisés pour une association, avec gest
 **Stack :** Next.js, TypeScript, React, Supabase, PostgreSQL, Tailwind CSS
 
 [Voir le projet](https://github.com/AFRAKLA/site-association-jeunes-actifs)
+
+## Contact
+
+**LinkedIn :** [linkedin.com/in/alae-ddine-afrakla-05a3a9348](https://www.linkedin.com/in/alae-ddine-afrakla-05a3a9348)  
+**Email :** [alaeeddineafrakla@gmail.com](mailto:alaeeddineafrakla@gmail.com)

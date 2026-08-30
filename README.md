@@ -25,8 +25,7 @@ Application de gestion scolaire couvrant les utilisateurs et rôles, les notes, 
 
 **Stack :** React, Flask, SQLAlchemy, JWT, SQLite, Pytest, Playwright
 
-[Voir le projet](https://github.com/AFRAKLA/aubier-school-management)
-### Jeunes Actifs
+[Voir le projet](https://github.com/AFRAKLA/garden-school-management)### Jeunes Actifs
 
 Site web et espace d’administration réalisés pour une association, avec gestion des contenus, des événements et des différentes pages publiques.
 
